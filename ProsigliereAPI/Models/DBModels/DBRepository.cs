@@ -147,7 +147,5 @@ namespace ProsigliereAPI.Models.DBModels
         }
 
         #endregion
-
-
     }
 }

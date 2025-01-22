@@ -64,7 +64,7 @@ namespace ProsigliereAPI.Controllers
         }
 
         /// <summary>
-        /// 
+        /// Adds a commentary to a post
         /// </summary>
         /// <param name="id" example="100">id of the post</param>
         /// <param name="NewComment">object with comentary to add to a post</param>        
