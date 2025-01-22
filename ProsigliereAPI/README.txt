@@ -1,5 +1,9 @@
 Doc path = https://localhost:7274/swagger/index.html
+The project can be runned without problems
+I spent 3h50min on it. Stop at that because the next task would sum more than 4h asked.
 
+TODO: DBErrors
+TODO: SonarQube
 TODO: Central logger and exceptions managers
 TODO: Tests for API routes
 
